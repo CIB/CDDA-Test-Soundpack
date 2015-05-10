@@ -1,0 +1,42 @@
+{
+    "sound_effects" : [
+        {
+            "id" : "menu_move",
+            "volume" : 100,
+            "file" : "nenadsimic_menu_selection_click.wav"
+        },
+        {
+            "id" : "footstep",
+            "volume" : 20,
+            "file" : "zinzan-foot.wav"
+        },
+        {
+            "id" : "open_door",
+            "volume" : 100,
+            "file" : "open_door.wav"
+        },
+        {
+            "id" : "open_door",
+            "variant" : "t_curtains",
+            "volume" : 100,
+            "file" : "percy-duke_opening-curtains.wav"
+        },
+        {
+            "id" : "close_door",
+            "volume" : 40,
+            "file" : "wjtaylor_door-close.wav"
+        },
+        {
+            "id" : "close_door",
+            "variant" : "t_window",
+            "volume" : 100,
+            "file" : "percy-duke_opening-curtains.wav"
+        },
+        {
+            "id" : "close_door",
+            "variant" : "t_window_domestic",
+            "volume" : 100,
+            "file" : "percy-duke_opening-curtains.wav"
+        }
+    ]
+}
