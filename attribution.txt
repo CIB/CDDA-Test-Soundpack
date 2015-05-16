@@ -1,0 +1,27 @@
+[
+    {
+        "file" : "chewiesmissus__glass-smash.wav",
+        "license" : "http://creativecommons.org/publicdomain/zero/1.0/",
+        "url": "https://www.freesound.org/people/chewiesmissus/sounds/244238/",
+    },
+    {
+        "file" : "joelaudio__quick-smash-001.wav",
+        "license" : "http://creativecommons.org/licenses/by/3.0/",
+        "url": "https://www.freesound.org/people/JoelAudio/sounds/135465/",
+    },
+    {
+        "file" : "wjtaylor_door-close.wav",
+        "license" : "http://creativecommons.org/publicdomain/zero/1.0/",
+        "url": "https://www.freesound.org/people/wjtaylor/sounds/266682/",
+    },
+    {
+        "file" : "percy-duke_opening-curtains.wav",
+        "license" : "http://creativecommons.org/licenses/by/3.0/",
+        "url": "https://www.freesound.org/people/Percy%20Duke/sounds/23534/",
+    },,
+    {
+        "file" : "open_door.wav",
+        "license" : "http://creativecommons.org/licenses/by/3.0/",
+        "url": "https://www.freesound.org/people/D%20W/sounds/151577/",
+    },
+]
