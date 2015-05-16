@@ -59,6 +59,24 @@
             "variant" : "glass",
             "volume" : 100,
             "file" : "chewiesmissus__glass-smash.wav"
+        },
+        {
+            "id" : "explosion",
+            "variant" : "default",
+            "volume" : 100,
+            "file" : "qubodup__explosive.wav"
+        },
+        {
+            "id" : "melee_hit",
+            "variant" : "default",
+            "volume" : 100,
+            "file" : "qubodup__weapon-swing-air-sound.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "variant" : "default",
+            "volume" : 100,
+            "file" : "noah-fletcher__homeade-gun-shot1-no-echo.wav"
         }
     ]
 }
